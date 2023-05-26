@@ -1,0 +1,11 @@
+The language used C++
+
+Compilation method:
+	```
+	make
+	```
+
+Usage/Execution/Running of the code:
+	```
+	./proj4
+	```
